@@ -1,0 +1,6 @@
+main: relampagorojo93.EzInvOpener.EIOpener
+name: EzInvOpener
+author: relampagorojo93
+version: ${project.version}
+description: Make it easier to open other plugins inventories with entities
+api-version: 1.13
